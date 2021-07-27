@@ -40,18 +40,20 @@ We have done several courses that we consider are very good to learn more about 
 [GraphQL](https://www.udemy.com/course/complete-guide-to-building-a-graphql-api/) is a query language developed by Facebook to power their mobile applications. It's a replacement for traditional REST API's and is far more flexible and faster. With GraphQL you can query multiple resources with a single request to the server. Making it ideal for web applications and mobile apps.
 
 ## Books for programming 
-Clean Architecture For more experienced software engineers, most of the content will not be new, but it will probably spark some ideas for current and upcoming software projects, as it has for me.
-Clean Code This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code
-Data Structures and Algorithms Algorithms and data structures are much more than abstract concepts. Mastering them enables you to write code that runs faster and more efficiently, which is particularly important for today web and mobile apps.
+[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_4?crid=2RONF9NK7DAOG&dchild=1&keywords=clean+code&qid=1627351828&sprefix=clean+code%2Caps%2C203&sr=8-4) For more experienced software engineers, most of the content will not be new, but it will probably spark some ideas for current and upcoming software projects, as it has for me.
 
-**Optional** Building Secure & Reliable System In this book, experts from Google share best practices to help your organization design scalable and reliable systems that are fundamentally secure.
+[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?crid=2RONF9NK7DAOG&dchild=1&keywords=clean+code&qid=1627351828&sprefix=clean+code%2Caps%2C203&sr=8-1) This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.
+
+[Data Structures and Algorithms](https://www.amazon.com/dp/1680507222/?coliid=I242DERETWY1VO&colid=3KS3DA4F47ME8&psc=1&ref_=lv_ov_lig_dp_it) Algorithms and data structures are much more than abstract concepts. Mastering them enables you to write code that runs faster and more efficiently, which is particularly important for today web and mobile apps.
+
+**Optional** [Building Secure & Reliable System](https://www.amazon.com/dp/1492083127/?coliid=IM8WZ50KZQA8D&colid=3KS3DA4F47ME8&psc=1&ref_=lv_ov_lig_dp_it) In this book, experts from Google share best practices to help your organization design scalable and reliable systems that are fundamentally secure.
 
 ## IDE
-Visual studio code This course is to understand how Visual Studio code works, I consider this idea as one of the most used and that every programmer should know. Download here
+[Visual studio code](https://www.udemy.com/course/learn-visual-studio-code/) This course is to understand how Visual Studio code works, I consider this idea as one of the most used and that every programmer should know. [Download here](https://code.visualstudio.com/download)
 
 ## Repositories
 NodeJS best practices [Click here](https://github.com/goldbergyoni/nodebestpractices)
 
 Author: Goldbergyoni 
 
-This guide was created by **[David Bujosa](https://github.com/bujosa)**
+___This guide was created by **[David Bujosa](https://github.com/bujosa)**___
