@@ -1,25 +1,29 @@
 # Guide-for-backend-developers
-This is a guide for backend developers with those languages: Typescript and Javascript
+
+>This is a guide for backend developers with those languages: Typescript and Javascript
+
+![Backend development skills](/images/backend.png)
 
 ## Programming Courses for Backend development
-Backend Development is also known as server-side development. It is everything that the users don’t see and contains behind-the-scenes activities that occur when performing any action on a website. It focuses primarily on databases, backend logic, APIs, and Servers.
+> Backend Development is also known as server-side development. It is everything that the users don’t see and contains behind-the-scenes activities that occur when performing any action on a website. It focuses primarily on databases, backend logic, APIs, and Servers.
 
 
-About NodeJS, mongoose with express. 
-NodeJS This is a project-based course where we build an extensive, in-depth backend API for DevCamper, a bootcamp directory app. We will start from scratch and end up with a professional deployed API with documentation. We will dive deep into Node, Express and MongoDB.
+> About NodeJS, mongoose with express.
 
-Understanding typescript  This Course takes you from the very Basics and its most important Feature (Types!) to the Point where you're able to use TypeScript in any of your Projects. ReactJS Projects included!
+>>[NodeJS](https://www.udemy.com/course/nodejs-api-masterclass/) This is a project-based course where we build an extensive, in-depth backend API for DevCamper, a bootcamp directory app. We will start from scratch and end up with a professional deployed API with documentation. We will dive deep into Node, Express and MongoDB.
 
-About NestJS and typescript
-NestJS beginning NestJS leverages the incredible popularity and robustness of JavaScript as a language and Node.js as a technology. It is inspired by common libraries and frameworks such as Angular, React and Vue which improve developer productivity and experience.
+>Understanding typescript  This Course takes you from the very Basics and its most important Feature (Types!) to the Point where you're able to use TypeScript in any of your Projects. ReactJS Projects included!
 
-About design patterns in typescript
-Design patterns This course starts by exploring SOLID principles to write clean code. Then you will create new objects and instance of classes with creational design Patterns. Next, you will utilize dependency injection with InversifyJS to create testable, maintainable, and extensible code.
+>About NestJS and typescript
+>NestJS beginning NestJS leverages the incredible popularity and robustness of JavaScript as a language and Node.js as a technology. It is inspired by common libraries and frameworks such as Angular, React and Vue which improve developer productivity and experience.
 
-**Optional** This course is a guide to understanding MongoDB and its full scope.
+>About design patterns in typescript
+>Design patterns This course starts by exploring SOLID principles to write clean code. Then you will create new objects and instance of classes with creational design Patterns. Next, you will utilize dependency injection with InversifyJS to create testable, maintainable, and extensible code.
+
+>>**Optional** This course is a guide to understanding MongoDB and its full scope.
 MongoDB guide MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand.
 
-**Optional** From this official mongo page, we have done several courses that we consider are very good to learn more about the concept and how it works.
+>>**Optional** From this official mongo page, we have done several courses that we consider are very good to learn more about the concept and how it works.
 University mongo
 
 This course below is a bit more forward-thinking, but it gives you an idea and ways to solve problems based on microservices.
@@ -39,7 +43,8 @@ Data Structures and Algorithms Algorithms and data structures are much more than
 Visual studio code This course is to understand how Visual Studio code works, I consider this idea as one of the most used and that every programmer should know. Download here
 
 ## Repositories
-NodeJS best practices (Click here)
+NodeJS best practices [Click here](https://github.com/goldbergyoni/nodebestpractices)
+
 Author: Goldbergyoni 
 
-This guide was created by **David Bujosa**
+This guide was created by **[David Bujosa](https://github.com/bujosa)**
